@@ -53,10 +53,7 @@
 ¿Encontraste algún error o tienes una idea para mejorar al perrito? / Found a bug or have an idea to improve the dog?
 * Abre un **[Issue en este repositorio](https://github.com/WykosVx/Brazilian-Dog-/issues)** para reportar errores. / Open an **[Issue in this repository](https://github.com/WykosVx/Brazilian-Dog-/issues)** to report bugs.
 * ¡Las sugerencias de nuevas funciones son bienvenidas! / New feature suggestions are welcome!
-## Versions
- **1.1.0**
-Code optimization, new skins for the dog, and the addition of sound effects when clicking on the dog.
-Optimización del código y nuevas skins para el perro y se añadio al hacer click al perro algun sonido fx
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="25" height="25" /> Créditos / Credits
-Desarrollado con ❤️ por **[WykosVx](https://github.com/WykosVx)**. / Developed with ❤️ by **[WykosVx](https://github.com/WykosVx)**.
+Developed with ❤️ by **[WykosVx](https://github.com/WykosVx)**.
